@@ -46,6 +46,9 @@ based off of the guide
 
 ### 2. Working with Natural Language Data
 
+[Kaggle Post w/ Data as well as some
+tutorials.](https://www.kaggle.com/c/word2vec-nlp-tutorial#part-2-word-vectors)
+
 Let's get our feet wet and learn about a "Bag of Words" classifier.  Check out
 the notebook here, [`intro-to-tfidf-bow.ipynb` (**Estimated Time:
 20min**)](./intro-to-tfidf-bow.ipynb).
